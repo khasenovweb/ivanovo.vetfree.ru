@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /ajax
+Disallow: /user
+Disallow: /auth
+
+User-agent: Yandex
+Disallow: /ajax
+Disallow: /user
+Disallow: /auth
+
+Host: https://ivanovo.vetfree.ru/
+Sitemap: https://ivanovo.vetfree.ru/sitemap.xml
